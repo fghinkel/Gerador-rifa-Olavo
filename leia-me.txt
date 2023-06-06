@@ -1,0 +1,15 @@
+Como usar:
+
+Clique em index,
+
+Ao abrir a página index, vai ser solicitado pelo navegador para inserir um número inicial, após informar este número, outra caixa vai ser apresentada pedindo o número final.
+
+Ao informar estes números, vai ser gerado as rifas dentro das numerações que foram passadas na abertura do arquivo.
+
+Para gerar novamente, basta atualizar a página e vai ser solicitado as numerações.
+
+Ao informar um número inicial maior que o número final, letras, números com vírgulas ou caracteres especiais, o arquivo não vai ser gerado.
+
+Após gerar as rifas, pressione ctrl + p e configure a impressão conforme o print abaixo:
+
+https://prnt.sc/9KgmHTh5uT3s
