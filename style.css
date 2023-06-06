@@ -5,12 +5,12 @@
   display: flex;
   flex-wrap: wrap;
   gap: 3%;
-  margin-left: 2%;
+  margin-left: 6.1%;
 }
 
 .layout {
   width: 45%;
-  margin-bottom: 1%;
+  margin-bottom: 0.2%;
 }
 
 div b p {
@@ -53,9 +53,11 @@ table {
 }
 
 td, th {
-  border: 1px solid #000;
-  border-left: none;
-  padding: 5px;
+	font-size: 20px;
+	border: 1px solid #000;
+	border-left: none;
+	padding: 3px;
+	text-align: center;
 }
 
 footer p {
@@ -63,19 +65,26 @@ footer p {
   font-size: 20px;
 }
 
+footer {
+	margin-bottom: 1%;
+}
+
 .numero {
-  width: 6%;
-  font-size: 20px;
+	text-align: left;
+  	width: 6%;
+  	font-size: 20px;
 }
 
 .nome {
-  width: 68%;
-  font-size: 20px;
+	text-align: left;
+  	width: 68%;
+  	font-size: 20px;
 }
 
 .fone {
-  width: 26%;
-  font-size: 20px;
+	text-align: left;
+  	width: 26%;
+  	font-size: 20px;
 }
 
 div li {

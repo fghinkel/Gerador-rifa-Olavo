@@ -38,7 +38,7 @@ for (var i = 0; i < numeroLayouts; i++) {
               </b>
             </ol>
         </div>
-
+        <br>
       <b><p align="center">Valor da contribuição: R$ 5,00</p></b> 
       </header>
       <table>
