@@ -1,5 +1,2 @@
-"# Gerador-rifa-Olavo" 
-"# Gerador-rifa-Olavo" 
-"# Gerador-rifa-Olavo" 
-"# Gerador-rifa-Olavo" 
-"# Gerador-rifa-Olavo" 
+# Gerador de rifas
+Este 'aplicativo', foi feito durante as horas da bolsa do artigo 170, o objetivo desta aplicação é simples, gerar rifas (rs). Durante o processo de desenvolvimento questionei se gostariam de recursos que facilitassem a edição da rifa e a responsividade em outras máquinas, porém a única função que me foi pedida, é que seja possível informar um número inicial e final, então foi justamente isso que fiz :)
