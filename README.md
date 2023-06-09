@@ -7,6 +7,7 @@ A escola em que fiz minhas horas da bolsa, possui em média de 4 mil alunos (est
   - Criar um planilha no excel para gerar os números de maneira sequencial.
   - Copiar 25 números do excel, e colar dentro da planilha do word.
   - Ajustar a formatação da planilha do word.
+
 Todo este processo é feito de maneira manual, na rifa em que eles estavam fazendo, no momento em que cheguei na escola estava no número 14026, e precisavam fazer até o número 20000, questionei a quanto tempo estavam fazendo daquela maneira, e responderam que estavam a mais de semanas fazendo isso.
 
 Futuramente planejo melhorar o código e tornar mais dinâmico e fácil de mecher, mas no momento foi possível melhorar a rotina da escola e economizar muito tempo com este código 'simples'.
